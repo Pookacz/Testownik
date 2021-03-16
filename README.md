@@ -6,11 +6,11 @@ This is a project that should help you to learn for the exam by learning questio
 
 ## How to Use
 Programme displays random question with 4 answers to it.
-![chooseAnswer](readME illustrations/chooseAnswer)
+![chooseAnswer](readME illustrations/chooseAnswer.jpg)
 All you have to do is choose one of four displayed answers. After choosing answer you need to check it by button below answers.
-![chooseAnswer](readME illustrations/selectedAnswer)
+![chooseAnswer](readME illustrations/selectedAnswer.jpg)
 After checking you will see which answer was correct. If your answer was wrong it will become red.
-![chooseAnswer](readME illustrations/checkedAnswer)
+![chooseAnswer](readME illustrations/checkedAnswer.jpg)
 
 ## How to add questions
 
