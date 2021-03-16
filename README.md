@@ -2,6 +2,8 @@
 ## General info
 This is a project that should help you to learn for the exam by learning questions from previous years. All you need is to add all questions that you have to a file named "questions.js". After this you can start learning. Yes, it is that simple!
 
+#### This programme works only for questions with four answers and only one can be correct.
+
 ## How to Use
 
 Programme displays random question with 4 answers to it.
@@ -37,5 +39,5 @@ f.e.: ["solve the equation: 2+2*2=", "4", "8", "6", "other", 3],
 * CSS 3
 * JavaScript 
 * jQuery 3.5.1
-* ## Version
-* 1.0 
+## Version
+1.0 
