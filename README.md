@@ -20,7 +20,7 @@ After checking you will see which answer was correct. If your answer was wrong i
 
 ## How to add questions
 Open file "questions.js" with notepad or other software.
-![questions](readME_illustrations/questions.jpg)
+
 Delete all sample questions.
 Now you can add your questions by following schema:
 [0, 1, 2, 3, 4, 5],
